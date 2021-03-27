@@ -1,5 +1,5 @@
 # OpenRCT2-PauseToggle-For-Multiplayer
-Simple OpenRCT2 plugin that allows clients to pause multiplayer games via chat message.
+Simple [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) plugin that allows clients to pause multiplayer games via chat message.
 
 ## ✔️ Features
 * Allows players to pause the game by sending a trigger word in the chat
