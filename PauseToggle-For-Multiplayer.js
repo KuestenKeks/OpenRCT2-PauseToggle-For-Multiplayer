@@ -18,6 +18,7 @@ function main() {
             if ( (CNST_TriggerMessages.indexOf(e.message) != -1) && (checkPermission(e.player)) ) {
 
                 // kp, wofür der 2te Param da ist.. true oder false scheint egal..
+                // hier hat jemand nur {} übergeben: https://github.com/CorySanin/openrct2-remote-control/blob/master/src/remote-control.ts
                 context.executeAction("pausetoggle", true)
 
                 // it seems there's no way to check if the game is paused or unpaused..
