@@ -4,7 +4,7 @@ Simple [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) plugin that allows clien
 ## ✔️ Features
 * Allows players to pause the game by sending a trigger word in the chat
 * Default trigger words are "p" and "pause"
-* Permissions are taken into account: only members of a group that has the "toggle_pause" permission can use the pause toggle (by default spectactors don't have this permission)
+* Permissions are taken into account: only members of a group that has the "toggle_pause" permission can use the pause toggle (by default spectators don't have this permission)
 * A confirmation chat message is sent after the game was paused or unpaused
 
 ## 💡 Usage
