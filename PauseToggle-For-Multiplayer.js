@@ -53,7 +53,7 @@ function main() {
 registerPlugin({
     name: 'PauseToggle-For-Multiplayer',
     version: '1.1',
-    authors: ['Charli'],
+    authors: ['kscheel'],
     type: 'remote',
     licence: 'MIT',
     main: main
