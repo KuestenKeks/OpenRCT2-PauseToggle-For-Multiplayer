@@ -14,7 +14,7 @@ Simple [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) plugin that allows clien
 ## 🛠 Customizing
 You can change the trigger words or the confirmation messages (or anything else..) by editing the plugin with an editor.
 * To change the trigger words, edit their Array: `const CNST_TriggerMessages = ["p", "pause", "YourTriggerWord"];`
-* to change the confirmation messages, find and edit the two lines starting with `network.sendMessage("...`. Available colors are listed in the [OpenRCT2 source code](https://github.com/OpenRCT2/OpenRCT2/blob/develop/src/openrct2/localisation/FormatCodes.cpp).
+* to change the confirmation messages, find and edit the two lines starting with `network.sendMessage(" ... `. Available colors are listed in the [OpenRCT2 source code](https://github.com/OpenRCT2/OpenRCT2/blob/develop/src/openrct2/localisation/FormatCodes.cpp).
 
 ## ⚖️ Licence
 This plugin is licensed under the MIT licence.
