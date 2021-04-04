@@ -8,7 +8,7 @@ Simple [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) plugin that allows clien
 * A confirmation chat message is sent after the game was paused or unpaused
 
 ## 💡 Usage
-* Download the latest Release and drop `PauseToggle-For-Multplayer.js` in the server's OpenRCT2 plugin folder (e.g. `...\documents\OpenRCT2\plugin\` when you host your game on Windows)
+* Download the [latest Release](https://github.com/kscheel/OpenRCT2-PauseToggle-For-Multiplayer/releases/latest) and drop `PauseToggle-For-Multplayer.js` in the server's OpenRCT2 plugin folder (e.g. `...\documents\OpenRCT2\plugin\` when you host your game on Windows)
 * That's it :) Now any player can pause or unpause the game by typing "pause" into the chat (or any other trigger word). But keep in mind that the cheat "Allow building in pause mode" does not work properly in multiplayer.
 
 ## 🛠 Customizing
