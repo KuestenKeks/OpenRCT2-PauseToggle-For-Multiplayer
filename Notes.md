@@ -6,3 +6,4 @@
 - [x] auf Berechtigung prüfen
 - [ ] Button einbauen statt ChatMsg?! Nur ein Client braucht den Button, Host hat ja den normalen Button.
   - Müsste ich dafür eine eigene network.action definieren und den Server darauf subscriben lassen? Und er Button löst die action aus? :s
+-  [ ] CheckPermission umbennen zu HasPermission oder IsAllowed oder so
