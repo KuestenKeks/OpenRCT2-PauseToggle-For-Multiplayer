@@ -9,7 +9,7 @@ Simple [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) plugin that allows clien
 
 ## 💡 Usage
 * Download the [latest Release](https://github.com/kscheel/OpenRCT2-PauseToggle-For-Multiplayer/releases/latest) and drop `PauseToggle-For-Multplayer.js` in the server's OpenRCT2 plugin folder (e.g. `...\documents\OpenRCT2\plugin\` when you host your game on Windows)
-* That's it :) Now any player can pause or unpause the game by typing "pause" into the chat (or any other trigger word). But keep in mind that the cheat "Allow building in pause mode" does not work properly in multiplayer until [this bug](https://github.com/OpenRCT2/OpenRCT2/issues/14964) in OpenRCT is fixed.
+* That's it :) Now any player can pause or unpause the game by typing "pause" into the chat (or any other trigger word). ~~But keep in mind that the cheat "Allow building in pause mode" does not work properly in multiplayer until [this bug](https://github.com/OpenRCT2/OpenRCT2/issues/14964) in OpenRCT is fixed.~~
 
 ## 🛠 Customizing
 You can change the trigger words or the confirmation messages (or anything else..) by editing the plugin with an editor.
